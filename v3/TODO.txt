@@ -1,0 +1,20 @@
+* CRITICAL: Must do post reduction on post (otherwise race conditions)
+* Test speed (profile?)
+* Make package structure
+* Write some example models
+* Allow delays (allow buffered variables?)
+* Better syntax for specifying models (macros?)
+* Improve connection interface
+* Infer Int32 vs Int64 at build stage
+* Allow functions for specifying variables
+* Write tests
+* Make structure more agnostic to allow for other backends
+
+
+Spiking
+GPU
+Accelerated
+Simulator
+Network
+Julia
+CUDA
